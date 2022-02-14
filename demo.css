@@ -1,0 +1,106 @@
+/* .header-container{
+    background-image: url('');
+} */
+
+/* 3d section */
+.container-1 {
+    border: #c3baba 1px solid;
+    border-radius: 10px;
+    height: 310px;
+}
+
+.image-flag {
+    width: 25%;
+    height: 25%;
+    padding-right: 20px;
+}
+
+/* 5th section */
+.section-container-5 {
+    background-image: url("./images/Mask\ Group\ 4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 47px 0px 40px 0px;
+}
+
+.head-5 {
+    max-width: 750px;
+    color: #fff;
+}
+
+.button-5 {
+    background-color: #F58025;
+    border-color: #F58025;
+    border-radius: 30px;
+    color: white;
+    padding: 10px 30px;
+    margin-top: 30px;
+}
+
+.button-5:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* footer */
+.footer-container {
+    background-color: #000A2D;
+    padding: 40px 0px 0px 0px;
+}
+
+.ul-container {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.footer-head-1 {
+    color: #F58025;
+    font-size: 27px;
+}
+
+.footer-head-2 {
+    color: #BDBFC9;
+    font-size: 20px;
+}
+
+.footer-para-1 {
+    color: #BDBFC9;
+    font-size: 18px;
+}
+
+.anchor-tags:hover {
+    text-decoration: none;
+    color: #F58025;
+}
+
+.icon-facebook:before {
+    content: "\e907";
+    font-family: "icomoon";
+    color: #fff;
+    font-size: 30px;
+}
+
+.icon-LinkedIn:before {
+    content: "\e900";
+    font-family: "icomoon";
+    color: #fff;
+    font-size: 30px;
+}
+
+.icon-twitter:before {
+    content: "\e903";
+    font-family: "icomoon";
+    color: #fff;
+    font-size: 30px;
+}
+.sub-footer-section{
+    background-color: #2D2D2D;
+    padding: 10px 0px 10px 0px;
+}
+.copyrights{
+    color: #fff;
+    font-size: 15px;
+}
+div .icons+.icons{
+    padding-left: 10px;
+}
